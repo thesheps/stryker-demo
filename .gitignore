@@ -108,5 +108,6 @@ dist/
 tmp/
 temp/
 reports/
+.stryker-tmp/
 
 # End of https://www.gitignore.io/api/node
